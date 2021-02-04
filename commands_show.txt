@@ -1,0 +1,11 @@
+show run | s aaa|tacacs
+show run | s ssh|snmp
+show vlan summary
+show run | s spanning
+show run | s line
+show run | s logging|ftp
+show run | i access-list
+show run | s vtp|mtu|lldp
+show run | s clock|udld
+show run | s ip routing|archive
+show run | s domain

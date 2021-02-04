@@ -1,0 +1,3 @@
+system mtu 9198
+vtp mode transparent
+do write memory
