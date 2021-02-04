@@ -24,10 +24,10 @@ ults setup. Do NOT modify!
 
 
 REQUIREMENTS: This script was written and run using the following:
-			python 3.8.7
-			nornir 3.0.0
-			nornir_netmiko 0.1.1
-			nornir_utils 0.1.1
+python 3.8.7
+nornir 3.0.0
+nornir_netmiko 0.1.1
+nornir_utils 0.1.1
 			
 
 USAGE: 
