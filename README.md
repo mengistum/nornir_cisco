@@ -23,11 +23,11 @@ ults setup. Do NOT modify!
 - nr\_config\_changes.py ==> a python script to perform configuration changes on one or more device(s). Do NOT modify (unless you know what you are doing)!
 
 
-REQUIREMENTS: This script was written and run using the following:
-python 3.8.7
-nornir 3.0.0
-nornir_netmiko 0.1.1
-nornir_utils 0.1.1
+REQUIREMENTS: This script was written and run using the following: 
+		python 3.8.7
+		nornir 3.0.0 
+		nornir_netmiko 0.1.1 
+		nornir_utils 0.1.1
 			
 
 USAGE: 
